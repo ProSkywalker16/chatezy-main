@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770682326178",
+    "project_id": "chatezy-d34fd",
+    "storage_bucket": "chatezy-d34fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770682326178:android:7889ef2d0ab0bafdbf5bfb",
+        "android_client_info": {
+          "package_name": "com.example.chatezy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbUB1CzWp0YpV34rU_xUbzJsiuyDts5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
