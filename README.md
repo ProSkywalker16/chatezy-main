@@ -4,7 +4,7 @@
 
 **Description**
 
-Chatezy is a lightweight chat application built using the Flutter framework and Firebase for real-time communication. It provides a user-friendly interface for one-on-one or group conversations, making it ideal for personal or small-scale group chats.
+Chatezy is a lightweight chat application built using the Flutter framework and Firebase for real-time communication. It provides a user-friendly interface for one-on-one  conversations, making it ideal for personal chats.
 
 **Prerequisites**
 
