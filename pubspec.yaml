@@ -46,6 +46,8 @@ dependencies:
   get_it: ^7.6.7
   image_picker: ^1.0.8
   path: ^1.8.3
+  flutter_native_splash: ^2.3.7
+  flutter_launcher_icons: ^0.13.1
 
 dev_dependencies:
   flutter_test:
@@ -99,3 +101,11 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/playstore.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
