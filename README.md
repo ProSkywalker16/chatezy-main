@@ -2,7 +2,7 @@
 
 ***Chatezy - A Minimal Chat App in Flutter***
 
-**Description**
+**Description of project**
 
 Chatezy is a lightweight chat application built using the Flutter framework and Firebase for real-time communication. It provides a user-friendly interface for one-on-one  conversations, making it ideal for personal chats.
 
